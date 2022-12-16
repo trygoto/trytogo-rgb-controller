@@ -17,9 +17,7 @@
 <img src="https://user-images.githubusercontent.com/18089130/208125268-f7448d46-ddf4-4e56-a27e-9d1afd46fe79.png" width="30%">
 
 # 💡 trytogo PC软件
-<img src="https://user-images.githubusercontent.com/18089130/208135694-cb24e632-7434-410e-8d1e-9fd5a822f416.png" width="50%"><img src="https://user-images.githubusercontent.com/18089130/208135885-4128721f-f840-45d6-ab04-646bec5bf1f5.png" width="50%">
-<img src="https://user-images.githubusercontent.com/18089130/208136438-fa6d5d45-996f-4c43-9578-27b37d1f9bf4.png" width="50%"><img src="https://user-images.githubusercontent.com/18089130/208136624-94032f3e-40e2-4dd1-9b2a-91bcc5001074.png" width="50%">
+<img src="https://user-images.githubusercontent.com/18089130/208135694-cb24e632-7434-410e-8d1e-9fd5a822f416.png" width="50%">
 
-
-# 📲 IOS软件
-<img src="https://user-images.githubusercontent.com/18089130/208138206-25c93f60-443e-4d1e-a3a3-47c6614e988e.png" width="30%">
+# 📲 IOS、Android软件
+<img src="https://user-images.githubusercontent.com/18089130/208139222-09fdf3f3-9b52-4b51-93ad-671371614934.png" width="30%">
