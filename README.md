@@ -1,8 +1,8 @@
 # trytogo-rgb-controller
 <img src="https://user-images.githubusercontent.com/18089130/208124216-ba9a4bf1-2394-4bc0-ba00-2f756c8631b5.png" width="70%">
 
-# 欢迎使用trytogo RGB控制器
-# 特点
+# 欢迎使用trytogo RGB控制器✨
+# ⚙️ 特点
 - 支持蓝牙功能，可使用IOS系统或者Android系统控制灯光效果。
 - 支持USB功能，可连接到电脑，软件控制灯光效果。
 - 支持Wi-Fi功能，可连接到路由器，电脑通过Wi-Fi控制灯光效果。
@@ -13,10 +13,11 @@
 - 支持100种以上的灯光效果。
 - 支持5V和12V RGB灯带。
 - 支持自定义编程，本控制器使用ESP32-C3,您可以下载您的代码到此控制器，实现自定义灯光效果。(*详细信息见自定义编程)。
-- 支持WLED项目!<img src="https://user-images.githubusercontent.com/18089130/208125268-f7448d46-ddf4-4e56-a27e-9d1afd46fe79.png" width="30%">
+- 支持WLED项目!
+<img src="https://user-images.githubusercontent.com/18089130/208125268-f7448d46-ddf4-4e56-a27e-9d1afd46fe79.png" width="30%">
 
-# trytogo PC软件
+# 💡 trytogo PC软件
 <img src="https://user-images.githubusercontent.com/18089130/208131541-b0282a85-97fa-4560-b975-3502fcfb1922.png" width="70%">
 
-# IOS和Android软件
+# 📲 IOS和Android软件
 <img src="https://user-images.githubusercontent.com/18089130/208132832-7bd9fc73-cd51-41f0-863b-b9d6504cca79.jpg" width="30%">
