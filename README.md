@@ -21,5 +21,5 @@
 <img src="https://user-images.githubusercontent.com/18089130/208136438-fa6d5d45-996f-4c43-9578-27b37d1f9bf4.png" width="50%"><img src="https://user-images.githubusercontent.com/18089130/208136624-94032f3e-40e2-4dd1-9b2a-91bcc5001074.png" width="50%">
 
 
-# 📲 IOS和Android软件
-<img src="https://user-images.githubusercontent.com/18089130/208132832-7bd9fc73-cd51-41f0-863b-b9d6504cca79.jpg" width="30%">
+# 📲 IOS软件
+<img src="https://user-images.githubusercontent.com/18089130/208138206-25c93f60-443e-4d1e-a3a3-47c6614e988e.png" width="30%">
