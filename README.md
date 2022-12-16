@@ -13,10 +13,10 @@
 - 支持100种以上的灯光效果。
 - 支持5V和12V RGB灯带。
 - 支持自定义编程，本控制器使用ESP32-C3,您可以下载您的代码到此控制器，实现自定义灯光效果。(*详细信息见自定义编程)。
-- 支持WLED项目https://github.com/Aircoookie/WLED#readme!
-<img src="https://user-images.githubusercontent.com/18089130/208125268-f7448d46-ddf4-4e56-a27e-9d1afd46fe79.png" width="30%">
-- 支持 Lightpack https://github.com/psieg/Lightpack
-<img src="https://user-images.githubusercontent.com/18089130/208152573-f68763e3-2f60-454c-8b2b-481f62387447.png" width="30%">
+- 支持WLED项目https://github.com/Aircoookie/WLED#readme! <img src="https://user-images.githubusercontent.com/18089130/208125268-f7448d46-ddf4-4e56-a27e-9d1afd46fe79.png" width="30%">
+
+
+- 支持 Lightpack项目 https://github.com/psieg/Lightpack <img src="https://user-images.githubusercontent.com/18089130/208152573-f68763e3-2f60-454c-8b2b-481f62387447.png" width="20%">
 
 # 💡 trytogo PC软件
 <img src="https://user-images.githubusercontent.com/18089130/208135694-cb24e632-7434-410e-8d1e-9fd5a822f416.png" width="50%">
