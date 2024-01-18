@@ -21,5 +21,4 @@
 # 💡 trytogo PC软件
 <img src="https://user-images.githubusercontent.com/18089130/208135694-cb24e632-7434-410e-8d1e-9fd5a822f416.png" width="50%">
 
-# 📲 IOS、Android软件
-<img src="https://user-images.githubusercontent.com/18089130/208139222-09fdf3f3-9b52-4b51-93ad-671371614934.png" width="30%">
+
